@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
 import java.util.TimeZone;
-
+ 
 public class Blocks implements Comparable<Blocks>{
 	private int number;
 	private String miner;
